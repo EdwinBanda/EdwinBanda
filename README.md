@@ -1,4 +1,4 @@
-### Greetings over there👋🏼, my name is Edwin Banda, im a software developer and a big technology fan. Currently im a software analist and i like what i do. I wish you find what you`re searching in my repo!
+### Greetings over there👋🏼, my name is Edwin Banda, im a software developer and a big technology fan. Currently im a software analist and i like what i do. I wish you find what you`re searching in my gitHub!
 
 ### 💻TECH STACKS:
 
